@@ -1,2 +1,2 @@
 # SayiTahminEtUygulama
-Sayı Tahmin Oyunu
+Sayı Tahmin Et Oyunu
